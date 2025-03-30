@@ -54,11 +54,11 @@ The architecture consists of the following steps:
 ## 📌 Project Structure
 ```
 Anti-Money-Laundering-Detection/
-│── AML_Detection.ipynb         # Jupyter notebook for training & evaluation
+│── Anti_Money_Laundering.ipynb # Jupyter notebook for training & evaluation
 │── README.md                   # Project documentation
 │── requirements.txt            # Dependencies
 │── model/                      # Saved trained models (Decision Tree, XGBoost, LightGBM, CatBoost)
-│── dataset/                     # Kaggle dataset files
+│── dataset/                    # Kaggle dataset files
 ```
 
 ---
