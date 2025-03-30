@@ -1,6 +1,6 @@
 # 💰 Anti-Money Laundering (AML) Detection using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 Money laundering is a significant global financial crime that involves disguising the origins of illegally obtained money. This project aims to **detect money laundering transactions** using machine learning models.
 
 We use a **synthetic financial transactions dataset** from IBM, which contains labeled data distinguishing between **legitimate** and **laundering** transactions. The goal is to train models that can accurately detect suspicious transactions while minimizing false positives.
@@ -101,5 +101,4 @@ python src/evaluate.py
 
 ---
 
-📢 **Contributions Welcome!**  
-Feel free to **fork**, **raise issues**, and **contribute** to improve the project! 🚀  
+
